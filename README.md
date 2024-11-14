@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I'm looking for help with **DevOps**
-
 - 💬 Ask me about **web development, cloud infrastructure, automation tools, or building CI/CD pipelines!**
 
 - 📫 How to reach me **sagarikaghom31@gmail.com**
